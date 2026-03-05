@@ -8,3 +8,4 @@ if intento % 2 == 0:
     print ("ES UN NUMERO PAR")
 else:
     print ("ES UN NUMERO IMPAR")
+
